@@ -1,4 +1,3 @@
-### Hi there 👋
 👀 Currently learning Full-Stack development.
 Check out my work here - https://alanskovrlj.github.io/
 
