@@ -1,4 +1,4 @@
-👀 Currently learning Full-Stack development.
+Full-Stack developer.
 
 Check out my work here - https://alanskovrlj.github.io/
 
