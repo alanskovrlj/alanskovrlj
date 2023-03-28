@@ -1,6 +1,4 @@
-Full-Stack developer.
-
-Check out my work here - https://alanskovrlj.github.io/
+https://alanskovrlj.github.io/
 
 <!--
 **alanskovrlj/alanskovrlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
